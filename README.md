@@ -1,7 +1,7 @@
 если у вас LINUX OR MAC os
 
 Чтобы скачать с гитхаба проект запускаем команду:
-    git clone https://github.com/KanatbekAdilbayev/Greetgo.git
+    git clone https://github.com/KanatbekAdilbayev/GreetgoProject.git
 В файле:
     GreeGo oткрываем папку greetgo на Intellij idea и т.п.
 В  терминале LINUX или MAC: 
